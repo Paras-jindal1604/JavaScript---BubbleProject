@@ -26,5 +26,6 @@ This project helped reinforce the following JavaScript concepts:
 ---
 
 
-👨‍💻 Author
+### 👨‍💻 Author
+
 Documented by [Paras Jindal](https://github.com/Paras-jindal1604) as part of a structured roadmap to mastering JavaScript and web development fundamentals.
